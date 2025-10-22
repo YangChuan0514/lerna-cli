@@ -6,6 +6,9 @@
   "license": "ISC",
   "author": "yangchuan <yangchuan@hortorgames.com>",
   "main": "lib/index.js",
+  "bin": {
+    "yangchuan-utils": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -18,5 +21,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "751ab02712daa0a252b3848ffc8dbd15c33a6611"
 }

@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-console.log('welcome lerna-cli')
+console.log('welcome lerna-cli-core')

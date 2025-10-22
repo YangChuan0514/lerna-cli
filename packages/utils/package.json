@@ -1,6 +1,6 @@
 {
   "name": "@yangchuan-cli/utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "homepage": "",
   "license": "ISC",
@@ -15,5 +15,8 @@
   ],
   "scripts": {
     "test": "node ./lib/index.js"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@yangchuan-cli/core",
+  "name": "yangchuan-cli/core",
   "version": "1.0.7",
   "description": "> TODO: description",
   "homepage": "",
@@ -22,5 +22,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "ffa1f2ce7e6e3439e42b37ac34588c4b42807b22"
+  "gitHead": "f2467d6907b6712b0886457530f2311ddd584b22"
 }

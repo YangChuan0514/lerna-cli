@@ -1,6 +1,6 @@
 {
   "name": "@yangchuan-cli/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "homepage": "",
   "license": "ISC",
@@ -20,7 +20,7 @@
     "test": "node ./lib/core.js"
   },
   "dependencies": {
-    "@yangchuan-cli/utils": "^1.0.2"
+    "@yangchuan-cli/utils": "^1.0.3"
   },
   "publishConfig": {
     "access": "public"

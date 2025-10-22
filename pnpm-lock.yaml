@@ -19,11 +19,7 @@ importers:
         specifier: ^9.0.0
         version: 9.0.0
 
-  packages/core:
-    dependencies:
-      '@yangchuan-lerna-cli/utils':
-        specifier: link:../../../../../../Library/pnpm/global/5/node_modules/@yangchuan-lerna-cli/utils
-        version: link:../../../../../../Library/pnpm/global/5/node_modules/@yangchuan-lerna-cli/utils
+  packages/core: {}
 
   packages/utils: {}
 

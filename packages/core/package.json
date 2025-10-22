@@ -1,6 +1,6 @@
 {
   "name": "@yangchuan-lerna-cli/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "homepage": "",
   "license": "ISC",
@@ -17,6 +17,6 @@
     "test": "node ./lib/core.js"
   },
   "dependencies": {
-    "@yangchuan-lerna-cli/utils": "^1.0.0"
+    "@yangchuan-lerna-cli/utils": "^1.0.1"
   }
 }

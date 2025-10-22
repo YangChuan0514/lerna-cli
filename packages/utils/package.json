@@ -1,6 +1,6 @@
 {
   "name": "@yangchuan-lerna-cli/utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "homepage": "",
   "license": "ISC",
@@ -15,7 +15,5 @@
   ],
   "scripts": {
     "test": "node ./lib/index.js"
-  },
-  "dependencies": {
   }
 }

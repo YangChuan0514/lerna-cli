@@ -1,5 +1,5 @@
 {
-  "name": "@yangchuan-lerna-cli/lerna-cli",
+  "name": "@yangchuan-cli/lerna-cli",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",

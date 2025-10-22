@@ -1,11 +1,14 @@
 {
-  "name": "@yangchuan-lerna-cli/core",
+  "name": "@yangchuan-cli/core",
   "version": "1.0.1",
   "description": "> TODO: description",
   "homepage": "",
   "license": "ISC",
   "author": "yangchuan <yangchuan@hortorgames.com>",
   "main": "lib/core.js",
+  "bin": {
+    "lerna-cli": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -17,6 +20,6 @@
     "test": "node ./lib/core.js"
   },
   "dependencies": {
-    "@yangchuan-lerna-cli/utils": "^1.0.1"
+    "@yangchuan-cli/utils": "^1.0.1"
   }
 }

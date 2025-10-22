@@ -1,0 +1,28 @@
+{
+  "version": "6.0",
+  "nxVersion": "21.6.5",
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {},
+    "nonProjectFiles": [
+      {
+        "file": "README.md",
+        "hash": "2036648944611965453"
+      },
+      {
+        "file": "__tests__/core.test.js",
+        "hash": "7391047460588061806"
+      },
+      {
+        "file": "lib/core.js",
+        "hash": "15758198476359107438"
+      },
+      {
+        "file": "package.json",
+        "hash": "368507505904644701"
+      }
+    ]
+  },
+  "externalNodesHash": "3244421341483603138"
+}

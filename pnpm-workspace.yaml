@@ -1,0 +1,5 @@
+packages:
+  - packages/*
+
+overrides:
+  '@yangchuan-lerna-cli/utils': link:../../../../Library/pnpm/global/5/node_modules/@yangchuan-lerna-cli/utils

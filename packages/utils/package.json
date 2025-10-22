@@ -1,0 +1,21 @@
+{
+  "name": "@yangchuan-lerna-cli/utils",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "homepage": "",
+  "license": "ISC",
+  "author": "yangchuan <yangchuan@hortorgames.com>",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./lib/index.js"
+  },
+  "dependencies": {
+  }
+}

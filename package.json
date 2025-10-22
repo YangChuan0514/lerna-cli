@@ -1,0 +1,23 @@
+{
+  "name": "lerna-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.14.0",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "@yangchuan-lerna-cli/utils": "link:../../../../Library/pnpm/global/5/node_modules/@yangchuan-lerna-cli/utils"
+  },
+  "devDependencies": {
+    "lerna": "^9.0.0"
+  }
+}
